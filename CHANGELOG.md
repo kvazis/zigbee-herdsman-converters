@@ -1,5 +1,12 @@
 # Changelog
 
+## [23.44.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.44.0...v23.44.1) (2025-05-15)
+
+
+### Bug Fixes
+
+* 3RDP01072Z: add private cluster ([#9349](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9349)) ([7adeb14](https://github.com/Koenkk/zigbee-herdsman-converters/commit/7adeb14174d564b4c24f7011501bfc99150e0b53))
+
 ## [23.44.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.43.0...v23.44.0) (2025-05-14)
 
 
